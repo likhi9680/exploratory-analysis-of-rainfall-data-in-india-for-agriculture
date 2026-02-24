@@ -1,4 +1,4 @@
-<img width="1674" height="976" alt="image" src="https://github.com/user-attachments/assets/d622e41f-6b11-46eb-8829-7c611e7a8658" /># Exploratory-Analysis-of-Rainfall-Data-in-India-for-Agriculture
+# Exploratory-Analysis-of-Rainfall-Data-in-India-for-Agriculture
 📌 Project Overview
 
 This project focuses on predicting the likelihood of rainfall using machine learning techniques based on historical weather data. The system performs data preprocessing, exploratory data analysis, model training, and deploys the trained model using a Flask web application to provide real-time rainfall predictions with probability percentages.
@@ -64,7 +64,13 @@ User-friendly input form for weather parameters
 Rainfall prediction results displayed with probability percentages
 
 Separate result pages for rain and no-rain predictions
-
+Screenshots:
+<img width="1674" height="976" alt="image" src="https://github.com/user-attachments/assets/33b21998-dc45-410e-a703-d72d920892c6" />
+Index Page
+<img width="1902" height="854" alt="image" src="https://github.com/user-attachments/assets/ddd8478f-5282-405e-9939-a463d0d70149" />
+No Rain
+<img width="1815" height="765" alt="image" src="https://github.com/user-attachments/assets/c5fbe799-a3f7-4e75-9b72-f9394f88eaff" />
+Rain 
 
 
 🎥 Demo Video of the Project
