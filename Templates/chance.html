@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rain Prediction Result</title>
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            font-family: Arial;
+            color: white;
+            text-align: center;
+            padding-top: 120px;
+        }
+        .box {
+            background: rgba(255,255,255,0.15);
+            display: inline-block;
+            padding: 40px;
+            border-radius: 12px;
+        }
+        a {
+            color: #fff;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="box">
+    <h1>🌧️ Rain Expected Tomorrow</h1>
+    <p><strong>Rain Probability:</strong> {{ rain_prob }}%</p>
+    <p><strong>No Rain Probability:</strong> {{ no_rain_prob }}%</p>
+    <a href="/">Go Back</a>
+</div>
+
+</body>
+</html>
